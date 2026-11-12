@@ -23,7 +23,7 @@ Tôi đã đưa đủ 9 ZIP vào thư mục `submissions/`. Các file đọc đ�
 | cp6_coverage | `cp6_coverage.zip` | 1/1 | 3 |
 | Tổng | | 14 ảnh | 100 |
 
-Sau khi có `tiers_gt.zip`, bài được chạy bằng script chấm của repo. Kết quả ba phần là **41,8/82**: Easy 17,6/20; Medium 13,8/32; Hard 10,4/30. Chưa có reference của 6 checkpoint nên tôi không tự ghi điểm các phần đó. Chi tiết ở [bảng điểm](../../reports/tiers/SCORECARD.md).
+Sau khi có `tiers_gt.zip`, bài được chạy bằng script chấm của repo. Kết quả ba phần là **41,8/82**: Easy 17,6/20; Medium 13,8/32; Hard 10,4/30. Đây là điểm tự đánh giá, không phải điểm chính thức trên 100. Chưa có reference của 6 checkpoint nên tôi không tự ghi điểm các phần đó.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
