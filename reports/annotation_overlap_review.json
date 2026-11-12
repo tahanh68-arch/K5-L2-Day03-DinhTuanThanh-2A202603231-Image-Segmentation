@@ -1,0 +1,1448 @@
+[
+  {
+    "task": "medium_instance",
+    "image": "000000181542.jpg",
+    "objects": 30,
+    "overlaps": [
+      {
+        "annotations": [
+          19,
+          26
+        ],
+        "classes": [
+          "car",
+          "bus"
+        ],
+        "overlap_pixels": 2840,
+        "overlap_bbox_xyxy": [
+          1,
+          129,
+          115,
+          195
+        ]
+      },
+      {
+        "annotations": [
+          14,
+          26
+        ],
+        "classes": [
+          "person",
+          "bus"
+        ],
+        "overlap_pixels": 356,
+        "overlap_bbox_xyxy": [
+          58,
+          103,
+          80,
+          124
+        ]
+      },
+      {
+        "annotations": [
+          27,
+          28
+        ],
+        "classes": [
+          "person",
+          "motorcycle"
+        ],
+        "overlap_pixels": 185,
+        "overlap_bbox_xyxy": [
+          607,
+          361,
+          638,
+          459
+        ]
+      },
+      {
+        "annotations": [
+          1,
+          16
+        ],
+        "classes": [
+          "person",
+          "person"
+        ],
+        "overlap_pixels": 57,
+        "overlap_bbox_xyxy": [
+          112,
+          167,
+          121,
+          253
+        ]
+      },
+      {
+        "annotations": [
+          1,
+          29
+        ],
+        "classes": [
+          "person",
+          "person"
+        ],
+        "overlap_pixels": 48,
+        "overlap_bbox_xyxy": [
+          191,
+          217,
+          207,
+          311
+        ]
+      },
+      {
+        "annotations": [
+          4,
+          19
+        ],
+        "classes": [
+          "person",
+          "car"
+        ],
+        "overlap_pixels": 14,
+        "overlap_bbox_xyxy": [
+          55,
+          162,
+          78,
+          172
+        ]
+      },
+      {
+        "annotations": [
+          16,
+          19
+        ],
+        "classes": [
+          "person",
+          "car"
+        ],
+        "overlap_pixels": 14,
+        "overlap_bbox_xyxy": [
+          105,
+          163,
+          117,
+          168
+        ]
+      },
+      {
+        "annotations": [
+          4,
+          25
+        ],
+        "classes": [
+          "person",
+          "motorcycle"
+        ],
+        "overlap_pixels": 12,
+        "overlap_bbox_xyxy": [
+          40,
+          255,
+          76,
+          260
+        ]
+      },
+      {
+        "annotations": [
+          8,
+          28
+        ],
+        "classes": [
+          "motorcycle",
+          "motorcycle"
+        ],
+        "overlap_pixels": 7,
+        "overlap_bbox_xyxy": [
+          433,
+          302,
+          439,
+          307
+        ]
+      },
+      {
+        "annotations": [
+          4,
+          16
+        ],
+        "classes": [
+          "person",
+          "person"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          100,
+          250,
+          101,
+          256
+        ]
+      },
+      {
+        "annotations": [
+          3,
+          8
+        ],
+        "classes": [
+          "person",
+          "motorcycle"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          446,
+          258,
+          451,
+          261
+        ]
+      }
+    ]
+  },
+  {
+    "task": "medium_instance",
+    "image": "000000373353.jpg",
+    "objects": 29,
+    "overlaps": [
+      {
+        "annotations": [
+          49,
+          54
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 35,
+        "overlap_bbox_xyxy": [
+          214,
+          317,
+          216,
+          332
+        ]
+      },
+      {
+        "annotations": [
+          37,
+          39
+        ],
+        "classes": [
+          "person",
+          "person"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          445,
+          415,
+          448,
+          416
+        ]
+      },
+      {
+        "annotations": [
+          38,
+          41
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          1,
+          327,
+          4,
+          327
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          48
+        ],
+        "classes": [
+          "person",
+          "car"
+        ],
+        "overlap_pixels": 1,
+        "overlap_bbox_xyxy": [
+          254,
+          307,
+          254,
+          307
+        ]
+      }
+    ]
+  },
+  {
+    "task": "medium_instance",
+    "image": "000000458325.jpg",
+    "objects": 25,
+    "overlaps": [
+      {
+        "annotations": [
+          82,
+          83
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 639,
+        "overlap_bbox_xyxy": [
+          0,
+          373,
+          57,
+          394
+        ]
+      },
+      {
+        "annotations": [
+          74,
+          80
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 541,
+        "overlap_bbox_xyxy": [
+          5,
+          211,
+          121,
+          258
+        ]
+      },
+      {
+        "annotations": [
+          75,
+          81
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 123,
+        "overlap_bbox_xyxy": [
+          484,
+          199,
+          572,
+          309
+        ]
+      },
+      {
+        "annotations": [
+          75,
+          76
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 50,
+        "overlap_bbox_xyxy": [
+          551,
+          210,
+          617,
+          304
+        ]
+      },
+      {
+        "annotations": [
+          80,
+          83
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 47,
+        "overlap_bbox_xyxy": [
+          51,
+          265,
+          61,
+          356
+        ]
+      },
+      {
+        "annotations": [
+          61,
+          62
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 13,
+        "overlap_bbox_xyxy": [
+          169,
+          186,
+          174,
+          189
+        ]
+      },
+      {
+        "annotations": [
+          61,
+          65
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 11,
+        "overlap_bbox_xyxy": [
+          188,
+          185,
+          191,
+          189
+        ]
+      },
+      {
+        "annotations": [
+          63,
+          78
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 10,
+        "overlap_bbox_xyxy": [
+          397,
+          199,
+          404,
+          202
+        ]
+      },
+      {
+        "annotations": [
+          63,
+          64
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 5,
+        "overlap_bbox_xyxy": [
+          400,
+          195,
+          404,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "task": "hard_panoptic",
+    "image": "000000350023.jpg",
+    "objects": 24,
+    "overlaps": [
+      {
+        "annotations": [
+          20,
+          24
+        ],
+        "classes": [
+          "road",
+          "sidewalk"
+        ],
+        "overlap_pixels": 582,
+        "overlap_bbox_xyxy": [
+          50,
+          309,
+          246,
+          456
+        ]
+      },
+      {
+        "annotations": [
+          20,
+          23
+        ],
+        "classes": [
+          "road",
+          "road"
+        ],
+        "overlap_pixels": 336,
+        "overlap_bbox_xyxy": [
+          391,
+          355,
+          442,
+          400
+        ]
+      },
+      {
+        "annotations": [
+          19,
+          23
+        ],
+        "classes": [
+          "sidewalk",
+          "road"
+        ],
+        "overlap_pixels": 162,
+        "overlap_bbox_xyxy": [
+          406,
+          360,
+          442,
+          395
+        ]
+      },
+      {
+        "annotations": [
+          12,
+          24
+        ],
+        "classes": [
+          "building",
+          "sidewalk"
+        ],
+        "overlap_pixels": 79,
+        "overlap_bbox_xyxy": [
+          228,
+          306,
+          245,
+          314
+        ]
+      },
+      {
+        "annotations": [
+          19,
+          22
+        ],
+        "classes": [
+          "sidewalk",
+          "sidewalk"
+        ],
+        "overlap_pixels": 67,
+        "overlap_bbox_xyxy": [
+          394,
+          335,
+          411,
+          359
+        ]
+      },
+      {
+        "annotations": [
+          21,
+          24
+        ],
+        "classes": [
+          "vegetation",
+          "sidewalk"
+        ],
+        "overlap_pixels": 64,
+        "overlap_bbox_xyxy": [
+          50,
+          315,
+          218,
+          450
+        ]
+      },
+      {
+        "annotations": [
+          19,
+          24
+        ],
+        "classes": [
+          "sidewalk",
+          "sidewalk"
+        ],
+        "overlap_pixels": 60,
+        "overlap_bbox_xyxy": [
+          54,
+          426,
+          102,
+          440
+        ]
+      },
+      {
+        "annotations": [
+          12,
+          22
+        ],
+        "classes": [
+          "building",
+          "sidewalk"
+        ],
+        "overlap_pixels": 48,
+        "overlap_bbox_xyxy": [
+          360,
+          306,
+          370,
+          311
+        ]
+      },
+      {
+        "annotations": [
+          21,
+          22
+        ],
+        "classes": [
+          "vegetation",
+          "sidewalk"
+        ],
+        "overlap_pixels": 36,
+        "overlap_bbox_xyxy": [
+          371,
+          310,
+          413,
+          352
+        ]
+      },
+      {
+        "annotations": [
+          20,
+          22
+        ],
+        "classes": [
+          "road",
+          "sidewalk"
+        ],
+        "overlap_pixels": 21,
+        "overlap_bbox_xyxy": [
+          360,
+          312,
+          410,
+          355
+        ]
+      },
+      {
+        "annotations": [
+          10,
+          23
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 13,
+        "overlap_bbox_xyxy": [
+          422,
+          381,
+          426,
+          391
+        ]
+      },
+      {
+        "annotations": [
+          2,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 7,
+        "overlap_bbox_xyxy": [
+          187,
+          415,
+          195,
+          423
+        ]
+      },
+      {
+        "annotations": [
+          4,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 6,
+        "overlap_bbox_xyxy": [
+          399,
+          431,
+          407,
+          449
+        ]
+      },
+      {
+        "annotations": [
+          13,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 6,
+        "overlap_bbox_xyxy": [
+          218,
+          369,
+          227,
+          376
+        ]
+      },
+      {
+        "annotations": [
+          17,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 6,
+        "overlap_bbox_xyxy": [
+          198,
+          396,
+          206,
+          405
+        ]
+      },
+      {
+        "annotations": [
+          11,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 5,
+        "overlap_bbox_xyxy": [
+          373,
+          387,
+          380,
+          400
+        ]
+      },
+      {
+        "annotations": [
+          18,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 5,
+        "overlap_bbox_xyxy": [
+          355,
+          403,
+          362,
+          407
+        ]
+      },
+      {
+        "annotations": [
+          10,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          406,
+          376,
+          409,
+          384
+        ]
+      },
+      {
+        "annotations": [
+          15,
+          20
+        ],
+        "classes": [
+          "person",
+          "road"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          178,
+          445,
+          181,
+          451
+        ]
+      },
+      {
+        "annotations": [
+          1,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 3,
+        "overlap_bbox_xyxy": [
+          327,
+          371,
+          330,
+          377
+        ]
+      },
+      {
+        "annotations": [
+          6,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 3,
+        "overlap_bbox_xyxy": [
+          215,
+          384,
+          220,
+          387
+        ]
+      },
+      {
+        "annotations": [
+          16,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 3,
+        "overlap_bbox_xyxy": [
+          348,
+          435,
+          353,
+          437
+        ]
+      },
+      {
+        "annotations": [
+          22,
+          23
+        ],
+        "classes": [
+          "sidewalk",
+          "road"
+        ],
+        "overlap_pixels": 3,
+        "overlap_bbox_xyxy": [
+          398,
+          355,
+          404,
+          359
+        ]
+      },
+      {
+        "annotations": [
+          9,
+          20
+        ],
+        "classes": [
+          "motorcycle",
+          "road"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          178,
+          456,
+          179,
+          457
+        ]
+      },
+      {
+        "annotations": [
+          3,
+          20
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 1,
+        "overlap_bbox_xyxy": [
+          268,
+          331,
+          268,
+          331
+        ]
+      }
+    ]
+  },
+  {
+    "task": "hard_panoptic",
+    "image": "000000460147.jpg",
+    "objects": 27,
+    "overlaps": [
+      {
+        "annotations": [
+          35,
+          51
+        ],
+        "classes": [
+          "sidewalk",
+          "sidewalk"
+        ],
+        "overlap_pixels": 270,
+        "overlap_bbox_xyxy": [
+          143,
+          233,
+          161,
+          256
+        ]
+      },
+      {
+        "annotations": [
+          34,
+          42
+        ],
+        "classes": [
+          "road",
+          "road"
+        ],
+        "overlap_pixels": 251,
+        "overlap_bbox_xyxy": [
+          272,
+          190,
+          286,
+          219
+        ]
+      },
+      {
+        "annotations": [
+          36,
+          42
+        ],
+        "classes": [
+          "sidewalk",
+          "road"
+        ],
+        "overlap_pixels": 189,
+        "overlap_bbox_xyxy": [
+          226,
+          153,
+          527,
+          214
+        ]
+      },
+      {
+        "annotations": [
+          30,
+          42
+        ],
+        "classes": [
+          "road",
+          "road"
+        ],
+        "overlap_pixels": 137,
+        "overlap_bbox_xyxy": [
+          457,
+          149,
+          466,
+          169
+        ]
+      },
+      {
+        "annotations": [
+          29,
+          36
+        ],
+        "classes": [
+          "building",
+          "sidewalk"
+        ],
+        "overlap_pixels": 123,
+        "overlap_bbox_xyxy": [
+          178,
+          142,
+          543,
+          199
+        ]
+      },
+      {
+        "annotations": [
+          31,
+          42
+        ],
+        "classes": [
+          "truck",
+          "road"
+        ],
+        "overlap_pixels": 104,
+        "overlap_bbox_xyxy": [
+          470,
+          228,
+          514,
+          266
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          43
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 90,
+        "overlap_bbox_xyxy": [
+          460,
+          181,
+          484,
+          206
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          44
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 77,
+        "overlap_bbox_xyxy": [
+          482,
+          198,
+          527,
+          227
+        ]
+      },
+      {
+        "annotations": [
+          36,
+          39
+        ],
+        "classes": [
+          "sidewalk",
+          "vegetation"
+        ],
+        "overlap_pixels": 37,
+        "overlap_bbox_xyxy": [
+          498,
+          166,
+          562,
+          196
+        ]
+      },
+      {
+        "annotations": [
+          36,
+          51
+        ],
+        "classes": [
+          "sidewalk",
+          "sidewalk"
+        ],
+        "overlap_pixels": 35,
+        "overlap_bbox_xyxy": [
+          182,
+          192,
+          202,
+          198
+        ]
+      },
+      {
+        "annotations": [
+          33,
+          42
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 33,
+        "overlap_bbox_xyxy": [
+          289,
+          194,
+          310,
+          215
+        ]
+      },
+      {
+        "annotations": [
+          28,
+          42
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 24,
+        "overlap_bbox_xyxy": [
+          535,
+          219,
+          609,
+          262
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          45
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 24,
+        "overlap_bbox_xyxy": [
+          414,
+          172,
+          430,
+          192
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          47
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 18,
+        "overlap_bbox_xyxy": [
+          465,
+          162,
+          474,
+          171
+        ]
+      },
+      {
+        "annotations": [
+          26,
+          42
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 15,
+        "overlap_bbox_xyxy": [
+          621,
+          254,
+          635,
+          281
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          48
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 14,
+        "overlap_bbox_xyxy": [
+          599,
+          275,
+          628,
+          375
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          49
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 14,
+        "overlap_bbox_xyxy": [
+          237,
+          292,
+          274,
+          339
+        ]
+      },
+      {
+        "annotations": [
+          30,
+          36
+        ],
+        "classes": [
+          "road",
+          "sidewalk"
+        ],
+        "overlap_pixels": 11,
+        "overlap_bbox_xyxy": [
+          462,
+          149,
+          466,
+          154
+        ]
+      },
+      {
+        "annotations": [
+          41,
+          42
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 10,
+        "overlap_bbox_xyxy": [
+          321,
+          170,
+          333,
+          180
+        ]
+      },
+      {
+        "annotations": [
+          31,
+          39
+        ],
+        "classes": [
+          "truck",
+          "vegetation"
+        ],
+        "overlap_pixels": 9,
+        "overlap_bbox_xyxy": [
+          479,
+          267,
+          499,
+          279
+        ]
+      },
+      {
+        "annotations": [
+          42,
+          46
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 9,
+        "overlap_bbox_xyxy": [
+          445,
+          170,
+          469,
+          188
+        ]
+      },
+      {
+        "annotations": [
+          35,
+          36
+        ],
+        "classes": [
+          "sidewalk",
+          "sidewalk"
+        ],
+        "overlap_pixels": 8,
+        "overlap_bbox_xyxy": [
+          190,
+          203,
+          215,
+          204
+        ]
+      },
+      {
+        "annotations": [
+          32,
+          42
+        ],
+        "classes": [
+          "truck",
+          "road"
+        ],
+        "overlap_pixels": 7,
+        "overlap_bbox_xyxy": [
+          435,
+          169,
+          453,
+          174
+        ]
+      },
+      {
+        "annotations": [
+          28,
+          31
+        ],
+        "classes": [
+          "car",
+          "truck"
+        ],
+        "overlap_pixels": 6,
+        "overlap_bbox_xyxy": [
+          538,
+          234,
+          548,
+          242
+        ]
+      },
+      {
+        "annotations": [
+          30,
+          32
+        ],
+        "classes": [
+          "road",
+          "truck"
+        ],
+        "overlap_pixels": 6,
+        "overlap_bbox_xyxy": [
+          455,
+          154,
+          455,
+          161
+        ]
+      },
+      {
+        "annotations": [
+          31,
+          48
+        ],
+        "classes": [
+          "truck",
+          "car"
+        ],
+        "overlap_pixels": 5,
+        "overlap_bbox_xyxy": [
+          542,
+          273,
+          547,
+          279
+        ]
+      },
+      {
+        "annotations": [
+          36,
+          47
+        ],
+        "classes": [
+          "sidewalk",
+          "car"
+        ],
+        "overlap_pixels": 5,
+        "overlap_bbox_xyxy": [
+          478,
+          164,
+          481,
+          167
+        ]
+      },
+      {
+        "annotations": [
+          29,
+          30
+        ],
+        "classes": [
+          "building",
+          "road"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          460,
+          149,
+          463,
+          149
+        ]
+      },
+      {
+        "annotations": [
+          30,
+          47
+        ],
+        "classes": [
+          "road",
+          "car"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          465,
+          165,
+          466,
+          167
+        ]
+      },
+      {
+        "annotations": [
+          40,
+          42
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 4,
+        "overlap_bbox_xyxy": [
+          305,
+          172,
+          315,
+          176
+        ]
+      },
+      {
+        "annotations": [
+          28,
+          48
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 3,
+        "overlap_bbox_xyxy": [
+          573,
+          268,
+          594,
+          271
+        ]
+      },
+      {
+        "annotations": [
+          25,
+          37
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          365,
+          216,
+          366,
+          216
+        ]
+      },
+      {
+        "annotations": [
+          43,
+          46
+        ],
+        "classes": [
+          "car",
+          "car"
+        ],
+        "overlap_pixels": 2,
+        "overlap_bbox_xyxy": [
+          463,
+          181,
+          465,
+          184
+        ]
+      },
+      {
+        "annotations": [
+          33,
+          34
+        ],
+        "classes": [
+          "car",
+          "road"
+        ],
+        "overlap_pixels": 1,
+        "overlap_bbox_xyxy": [
+          283,
+          206,
+          283,
+          206
+        ]
+      }
+    ]
+  }
+]
